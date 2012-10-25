@@ -1,0 +1,1 @@
+"c:\Program Files\Inno Setup 5\ISCC.exe" /Q /O"." /F"Gmail Shortcut Installer" "gmail.iss" 
